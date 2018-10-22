@@ -23,6 +23,7 @@ div {
 }
 
 .btn-ghost {
+  margin-top: .125em;
   border-style: solid;
   color: #000;
   border-color: #000;
@@ -44,8 +45,8 @@ div {
 .btn-small {
   font-size: .875rem;
   border-width: 2.5px;
-  padding-top: .4em;
-  padding-bottom: .4em;
+  padding-top: .75em;
+  padding-bottom: .5em;
 }
 
 .btn-big {
